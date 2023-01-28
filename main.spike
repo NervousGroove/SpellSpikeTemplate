@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Your Program Name</title>
+</head>
+<body onload=""> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+	</script>
+
+<!-- Scripts: -->
+<script src="main.js"></script>
+</body>
+</html>
