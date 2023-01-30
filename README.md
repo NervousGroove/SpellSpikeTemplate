@@ -1,7 +1,7 @@
 # 🍕 $MyProgram
 $MyProgram Description
 
-# ⚖️ License
+# ⚖️ 𝕷𝖎𝖈𝖊𝖓𝖘𝖊
 $MyProgram is under the SNLL license, an exclusive SpellSpike license. 
 Read more about the SNLL license at https://shre.ink/snll
 
